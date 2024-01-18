@@ -68,11 +68,27 @@
 
 
 }
+
+
+.banner2{
+    background-image: url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../resources/Vectorrr.png');
+    position: center;
+    margin: auto;
+    background-size:cover ;
+}
+.n{
+   colo 
+    
+}
 .text-container{
     text-align: left;
     margin-top: 100px;
 }
-.m{
+.n{
     color: #FFF;
     font-weight: bold;
     font-size: 64px;
@@ -83,19 +99,66 @@
 }
 .img{
     margin-top:100px;
+    position: right;
+    padding: center;
 }
-.div{
-    background-image: url('../resources/Vectorrr.png');
+.book{
+    background-color: hwb(350 85% 3% /0.9);
+    width: 1320px;
+    height: 482px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 100px;
+    padding-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+  }
+.primary{
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.o{
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.t{
+    margin-top: 10px;
+    margin-top: 0px;
+}
+.j{
+    border-radius: 9px;
+    background: #F00;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 16px 32px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.set{
+    color: red;
+}
+.get{
+    color: red;
+
+}
+.bed{
+    color: red;
+}
+.banner4{
+    display: flex;
+    background-color: hwb(350 85% 3% / 0.9);
     width: 1320px;
     height: 600px;
-    flex-shrink: 0;
-    fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
-    position: center;
-    margin: auto;
-    background-size:cover ;
+    border-radius: 4px;
 }
-
-
+.container2{
+    margin-top: 100px;
+}
 
 
 
